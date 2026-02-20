@@ -121,4 +121,4 @@ The application uses the **Fan-Out/Fan-In** pattern:
 - Mock implementations for object detection and OCR
 - Real implementations for color analysis and metadata extraction
 
-  Youtube :https://youtu.be/xKtQa0BdNJc
+  Youtube :https://youtu.be/Uj_tolIQTOU
