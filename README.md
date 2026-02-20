@@ -120,3 +120,5 @@ The application uses the **Fan-Out/Fan-In** pattern:
 - Uses Azurite for local development (no Azure account needed)
 - Mock implementations for object detection and OCR
 - Real implementations for color analysis and metadata extraction
+
+  Youtube :https://youtu.be/xKtQa0BdNJc
